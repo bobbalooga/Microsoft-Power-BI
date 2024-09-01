@@ -12,9 +12,9 @@ Specifically, this course will help you gain knowledge and skills for preparing 
 - Final project and assessment
 
 ## 🔑 Key Skills Learned 
--	Create data in Microsoft Excel and prepare it for data analysis.  
+-	Created data in Microsoft Excel and prepare it for data analysis.  
 -	Make use of common formulas and functions in a worksheet.  
--	Prepare Excel data for analysis in Power BI using functions.
+-	Prepared Excel data for analysis in Power BI using functions.
 
 ## 🏆 Certificates 
 To verify the certificate, click on the image below.
